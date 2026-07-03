@@ -6,6 +6,8 @@ This project analyzes social media text and classifies it into:
 - 😐 Neutral
 - 😞 Negative
 
+Intern ID:CITS3444
+
 ## Features
 
 - Sentiment Analysis
